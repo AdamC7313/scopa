@@ -1,0 +1,12 @@
+.board-container {
+  border: 2px black solid;
+  height: 50vh;
+  width: 70vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  padding: 20px;
+}
